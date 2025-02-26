@@ -10,3 +10,4 @@ Features:
 - Forgeting a concept
 - Lists (search, insert, delete)
 - Saves Discussions
+- Makefile
